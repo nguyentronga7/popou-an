@@ -1,8 +1,8 @@
 
-	var url_popup = 'http://bit.ly/1JdPEQv';
+	var url_popup = 'http://youcare.vn/';
 
       //<![CDATA[
-	  // var url_ppp = 'http://bit.ly/1KmPNYe';
+	  // var url_ppp = 'http://youcare.vn/';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
